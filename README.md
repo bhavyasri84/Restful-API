@@ -1,1 +1,1 @@
-# Restful API using  nodejs, expressjas and mongodb
+# Restful API using  nodejs, expressjs and mongodb
